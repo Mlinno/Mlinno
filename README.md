@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on use some model in Civitai that had to download
 - 📫 How to reach me by weimingchen@gmail.com
 - 😄 Pronouns: His/He
-- ⚡ Fun fact: Nope
+- ⚡ Fun fact: Nope, nothing funny
 
 <!---
 Mlinno/Mlinno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
